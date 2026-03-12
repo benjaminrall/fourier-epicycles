@@ -1,0 +1,12 @@
+[package]
+name = "fourier-epicycles"
+version = "0.1.0"
+edition = "2024"
+description = ""
+authors = ["Benjamin Rall <benr2508@aol.com>"]
+license = "MIT"
+repository = "https://github.com/benjaminrall/fourier-epicycles"
+homepage = "https://github.com/benjaminrall/fourier-epicycles"
+readme = "README.md"
+
+[dependencies]
