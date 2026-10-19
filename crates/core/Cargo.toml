@@ -10,3 +10,5 @@ homepage = "https://github.com/benjaminrall/fourier-epicycles"
 readme = "README.md"
 
 [dependencies]
+enum_dispatch = "0.3.13"
+num = "0.4.3"
